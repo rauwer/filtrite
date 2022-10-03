@@ -12,7 +12,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 
 # EasyList
