@@ -31,7 +31,6 @@ https://malware-filter.gitlab.io/malware-filter/tracking-filter.txt
 https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
 
 # Miscellaneous
-https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt
 https://someonewhocares.org/hosts/hosts
 https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
