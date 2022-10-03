@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-a
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 
 # AdGuard
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
