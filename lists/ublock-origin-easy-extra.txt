@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 
 # AdGuard
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
